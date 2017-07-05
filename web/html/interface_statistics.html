@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 引入 ECharts 文件 -->
+    <script type="text/javascript" src="{{ static_url('js/http.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('js/static/echarts.min.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('js/static/jquery.1.7.2.min.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('js/service/interface_statistics.js') }}"></script>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width: 600px;height:400px;"></div>
+</body>
+<script>window.onload=init()</script>
+</html>

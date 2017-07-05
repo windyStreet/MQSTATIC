@@ -1,0 +1,26 @@
+{
+  "statical_type": [
+    "interface",
+    "http"
+  ],
+  "statical_step": [
+    1,
+    5,
+    30,
+    60,
+    360,
+    720
+  ],
+  "except":[
+    {
+      "project_name":"APPTEST",
+      "statistic_type":"interface",
+      "statistic_name":"login"
+    },
+    {
+      "project_name":"APPTEST",
+      "statistic_type":"interface",
+      "statistic_name":"login"
+    }
+  ]
+}

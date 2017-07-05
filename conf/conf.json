@@ -1,0 +1,82 @@
+{
+    "redisConf": {
+        "port": 6379,
+        "host": "192.168.7.216",
+        "password": "longrise"
+    },
+    "rabbitMQ": {
+        "ip": "192.168.7.216",
+        "port": "None",
+        "user": "longrise",
+        "password": "longrise"
+    },
+    "server": {
+        "port": 8001
+    },
+    "statical_rule": {
+        "statical_step": [
+            1,
+            5,
+            30,
+            60,
+            360,
+            720
+        ],
+        "statical_type": [
+            "interface",
+            "http"
+        ],
+        "except": [
+            {
+                "statistic_type": "interface",
+                "statistic_name": "login",
+                "project_name": "APPTEST"
+            },
+            {
+                "statistic_type": "interface",
+                "statistic_name": "login",
+                "project_name": "APPTEST"
+            }
+        ]
+    },
+    "project": {
+        "context": "static",
+        "port": 6379,
+        "password": "longrise"
+    },
+    "DB": {
+        "BBT": {
+            "port": 27017,
+            "dbname": "BBT",
+            "ip": "192.168.7.216",
+            "user": "",
+            "password": "",
+            "type": "mongo"
+        },
+        "OAMP": {
+            "port": 27017,
+            "dbname": "OAMP",
+            "ip": "192.168.7.216",
+            "user": "",
+            "password": "",
+            "type": "mongo"
+        },
+        "YXYBB": {
+            "port": 27017,
+            "dbname": "YXYBB",
+            "ip": "192.168.7.216",
+            "user": "",
+            "password": "",
+            "type": "mongo"
+        },
+        "base": {
+            "port": 27017,
+            "dbname": "BASE",
+            "ip": "192.168.7.216",
+            "user": "",
+            "password": "",
+            "type": "mongo"
+        }
+    },
+    "statical_rule_bak": null
+}

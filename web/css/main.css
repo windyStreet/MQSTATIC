@@ -1,0 +1,81 @@
+/**
+c查询条件的样式
+ */
+.search {
+    background: #cde0ff;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+.search-basic {
+    border-radius: 10px;
+    padding: 3px;
+
+}
+.search-content {
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.search-add {
+    height: 20px;
+    margin-top: 2px;
+    border: #36d00c 1px solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+.search-opt {
+
+}
+.search-shrink {
+
+}
+.search-opt-single {
+    float: left;
+    margin: 10px 10px;
+}
+.search-time {
+    width: 262px;
+    background: #f5efe1;
+    border: #726d6f;
+    border-radius: 3px;
+    font-size: 20px;
+}
+.search-select {
+    width: 200px;
+    height: 30px;
+    background: #f5efe1;
+    border: #726d6f;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+
+.content {
+        margin: 10px;
+        border: #636063 2px solid;
+        background: #eaf8ff;
+        border-radius: 8px;
+    }
+    .content-chart {
+        float: left;
+        min-height: 600px;
+        width: 1800px;
+        border: #8f9193 2px solid;
+        margin: 20px;
+    }
+    /**
+    echart 图操作
+    */
+    .chart-opt{
+        height: 30px;
+        width: 100%;
+        border-bottom:#979699 2px solid;
+    }
+    /**
+    echart 图显示
+     */
+    .chart-show{
+        height: 570px;
+        width:100%;
+        background-color: green;
+    }

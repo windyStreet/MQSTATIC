@@ -1,0 +1,537 @@
+[    INFO]-[2017-06-21 10:28:01,618]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-21 10:28:01,624]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-21 10:28:01,624]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-21 10:28:01,625]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-21 10:28:01,625]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-21 10:28:01,626]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-21 10:28:01,627]-Init.py :Line:17 : start receive mongodb log
+[    INFO]-[2017-06-21 10:51:49,094]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-21 10:51:49,099]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-21 10:51:49,100]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-21 10:51:49,100]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-21 10:51:49,100]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-21 10:51:49,101]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-21 10:51:49,101]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-21 11:03:52,849]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-21 11:03:52,853]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-21 11:03:52,853]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-21 11:03:52,853]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-21 11:03:52,853]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-21 11:03:52,854]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-21 11:03:52,855]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-21 11:20:35,560]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-21 11:20:35,574]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-21 11:20:35,575]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-21 11:20:35,575]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-21 11:20:35,575]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-21 11:20:35,576]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-21 11:20:35,576]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-21 11:49:58,085]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-21 11:49:58,090]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-21 11:49:58,090]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-21 11:49:58,090]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-21 11:49:58,091]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-21 11:49:58,092]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-21 11:49:58,092]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-27 09:25:43,457]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-27 09:25:43,493]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-27 09:25:43,493]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-27 09:25:43,493]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-27 09:25:43,494]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-27 09:25:43,495]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-27 09:25:43,495]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-27 22:22:13,134]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-27 22:22:13,146]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-27 22:22:13,147]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-27 22:22:13,147]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-27 22:22:13,147]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-27 22:22:13,151]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-27 22:22:13,152]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-27 22:27:52,489]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-27 22:27:52,495]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-27 22:27:52,496]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-27 22:27:52,496]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-27 22:27:52,496]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-27 22:27:52,498]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-27 22:27:52,499]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 00:45:02,315]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 00:45:02,320]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 00:45:02,320]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 00:45:02,321]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 00:45:02,321]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 00:45:02,322]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 00:45:02,323]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 00:45:24,087]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 00:45:24,093]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 00:45:24,093]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 00:45:24,094]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 00:45:24,094]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 00:45:24,096]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 00:45:24,096]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 01:18:30,572]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 01:18:30,583]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 01:18:30,584]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 01:18:30,585]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 01:18:30,585]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 01:18:30,589]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 01:18:30,590]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 01:49:48,494]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 01:49:48,505]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 01:49:48,506]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 01:49:48,507]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 01:49:48,507]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 01:49:48,510]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 01:49:48,511]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 01:50:24,280]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 01:50:24,285]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 01:50:24,285]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 01:50:24,285]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 01:50:24,286]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 01:50:24,288]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 01:50:24,289]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-28 01:53:15,772]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-28 01:53:15,781]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-28 01:53:15,781]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-28 01:53:15,782]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-28 01:53:15,782]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-28 01:53:15,783]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-28 01:53:15,784]-Init.py :Line:16 : start receive mongodb log
+[    INFO]-[2017-06-29 11:04:28,880]-Init.py :Line:17 : conf file init start
+[    INFO]-[2017-06-29 11:04:28,883]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 11:04:28,883]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 11:04:28,891]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-29 11:04:28,891]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-29 11:04:28,891]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-29 11:04:28,891]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-29 11:04:28,892]-DB_init.py :Line:47 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 11:07:12,603]-Init.py :Line:17 : conf file init start
+[    INFO]-[2017-06-29 11:07:12,604]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 11:07:12,604]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 11:07:12,617]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-29 11:07:12,617]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-29 11:07:12,617]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-29 11:07:12,618]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-29 11:07:12,619]-DB_init.py :Line:47 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 11:07:25,155]-Init.py :Line:17 : conf file init start
+[    INFO]-[2017-06-29 11:07:25,156]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 11:07:25,156]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 11:07:25,160]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-29 11:07:25,161]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-29 11:07:25,161]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-29 11:07:25,161]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-29 11:07:25,162]-DB_init.py :Line:47 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 11:07:25,162]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-29 11:07:25,163]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-06-29 13:57:26,637]-Init.py :Line:17 : conf file init start
+[    INFO]-[2017-06-29 13:57:26,639]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 13:57:26,639]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 13:57:26,643]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-29 13:57:26,643]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-29 13:57:26,643]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-29 13:57:26,643]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-29 13:57:26,644]-DB_init.py :Line:47 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 13:57:26,645]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-29 13:57:26,645]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-06-29 18:04:54,416]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-06-29 18:04:54,417]-Conf_func.py :Line:26 : init conf_json {'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'rabbitMQ': {'password': 'longrise', 'user': 'longrise', 'ip': '192.168.7.216', 'port': 'None'}, 'server': {'port': 8001}, 'DB': {'base': {'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'user': '', 'dbname': 'BASE', 'port': 27017}, 'OAMP': {'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'user': '', 'dbname': 'OAMP', 'port': 27017}, 'BBT': {'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'user': '', 'dbname': 'BBT', 'port': 27017}, 'YXYBB': {'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'user': '', 'dbname': 'YXYBB', 'port': 27017}}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}}
+[    INFO]-[2017-06-29 18:04:54,418]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 18:04:54,418]-DB_init.py :Line:43 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 18:04:54,443]-DB_init.py :Line:36 : init DB_ds , insert data:base:BASE
+[    INFO]-[2017-06-29 18:04:54,443]-DB_init.py :Line:36 : init DB_ds , insert data:OAMP:OAMP
+[    INFO]-[2017-06-29 18:04:54,443]-DB_init.py :Line:36 : init DB_ds , insert data:BBT:BBT
+[    INFO]-[2017-06-29 18:04:54,443]-DB_init.py :Line:36 : init DB_ds , insert data:YXYBB:YXYBB
+[    INFO]-[2017-06-29 18:04:54,444]-DB_init.py :Line:47 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 18:04:54,444]-DB_init.py :Line:51 : start sys , compute all count data 
+[    INFO]-[2017-06-29 18:04:54,444]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-06-29 18:42:12,453]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-06-29 18:42:12,454]-Conf_func.py :Line:26 : init conf_json info is : {'DB': {'YXYBB': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'YXYBB', 'password': '', 'type': 'mongo'}, 'base': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'BASE', 'password': '', 'type': 'mongo'}, 'BBT': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'BBT', 'password': '', 'type': 'mongo'}, 'OAMP': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'OAMP', 'password': '', 'type': 'mongo'}}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise', 'port': 'None'}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'server': {'port': 8001}}
+[    INFO]-[2017-06-29 18:42:12,455]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 18:42:12,455]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 18:42:12,459]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-06-29 18:42:12,459]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-06-29 18:42:12,459]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-06-29 18:42:12,459]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-06-29 18:42:12,460]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 18:42:53,931]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-06-29 18:42:53,932]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'DB': {'base': {'dbname': 'BASE', 'password': '', 'port': 27017, 'type': 'mongo', 'ip': '192.168.7.216', 'user': ''}, 'OAMP': {'dbname': 'OAMP', 'password': '', 'port': 27017, 'type': 'mongo', 'ip': '192.168.7.216', 'user': ''}, 'BBT': {'dbname': 'BBT', 'password': '', 'port': 27017, 'type': 'mongo', 'ip': '192.168.7.216', 'user': ''}, 'YXYBB': {'dbname': 'YXYBB', 'password': '', 'port': 27017, 'type': 'mongo', 'ip': '192.168.7.216', 'user': ''}}, 'rabbitMQ': {'user': 'longrise', 'password': 'longrise', 'ip': '192.168.7.216', 'port': 'None'}}
+[    INFO]-[2017-06-29 18:42:53,933]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-06-29 18:42:53,933]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-06-29 18:42:53,957]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-06-29 18:42:53,958]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-06-29 18:42:53,958]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-06-29 18:42:53,958]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-06-29 18:42:53,959]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-06-29 18:42:53,964]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-06-29 18:42:53,964]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-07-04 16:58:45,513]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-07-04 16:58:45,545]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}, 'DB': {'YXYBB': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'port': 27017, 'dbname': 'YXYBB'}, 'BBT': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'port': 27017, 'dbname': 'BBT'}, 'base': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'port': 27017, 'dbname': 'BASE'}, 'OAMP': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'port': 27017, 'dbname': 'OAMP'}}, 'server': {'port': 8001}, 'rabbitMQ': {'password': 'longrise', 'user': 'longrise', 'ip': '192.168.7.216', 'port': 'None'}}
+[    INFO]-[2017-07-04 16:58:45,548]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-07-04 16:58:45,548]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 16:58:45,565]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 16:58:45,565]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 16:58:45,565]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 16:58:45,565]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 16:58:45,568]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 16:58:45,568]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 16:58:45,574]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 16:58:45,575]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 16:58:45,577]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-07-04 16:59:12,332]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-07-04 16:59:12,333]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise', 'port': 'None'}, 'DB': {'base': {'ip': '192.168.7.216', 'dbname': 'BASE', 'user': '', 'type': 'mongo', 'password': '', 'port': 27017}, 'YXYBB': {'ip': '192.168.7.216', 'dbname': 'YXYBB', 'user': '', 'type': 'mongo', 'password': '', 'port': 27017}, 'BBT': {'ip': '192.168.7.216', 'dbname': 'BBT', 'user': '', 'type': 'mongo', 'password': '', 'port': 27017}, 'OAMP': {'ip': '192.168.7.216', 'dbname': 'OAMP', 'user': '', 'type': 'mongo', 'password': '', 'port': 27017}}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}}
+[    INFO]-[2017-07-04 16:59:12,336]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-07-04 16:59:12,337]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 16:59:12,345]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 16:59:12,345]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 16:59:12,345]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 16:59:12,345]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 16:59:12,347]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 16:59:12,347]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 16:59:12,363]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 16:59:12,364]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 16:59:12,365]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-07-04 17:02:11,838]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-07-04 17:02:13,603]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'DB': {'OAMP': {'ip': '192.168.7.216', 'user': '', 'port': 27017, 'dbname': 'OAMP', 'password': '', 'type': 'mongo'}, 'YXYBB': {'ip': '192.168.7.216', 'user': '', 'port': 27017, 'dbname': 'YXYBB', 'password': '', 'type': 'mongo'}, 'base': {'ip': '192.168.7.216', 'user': '', 'port': 27017, 'dbname': 'BASE', 'password': '', 'type': 'mongo'}, 'BBT': {'ip': '192.168.7.216', 'user': '', 'port': 27017, 'dbname': 'BBT', 'password': '', 'type': 'mongo'}}, 'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'rabbitMQ': {'ip': '192.168.7.216', 'user': 'longrise', 'password': 'longrise', 'port': 'None'}, 'server': {'port': 8001}}
+[    INFO]-[2017-07-04 17:02:21,716]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-07-04 17:02:29,349]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:02:40,209]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:03:03,848]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:03:05,871]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:03:07,757]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:03:22,213]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:03:23,696]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:03:39,982]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:04:05,705]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:04:29,929]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-07-04 17:13:19,640]-Init.py :Line:17 : conf file init start
+[   DEBUG]-[2017-07-04 17:13:19,643]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'rabbitMQ': {'ip': '192.168.7.216', 'user': 'longrise', 'port': 'None', 'password': 'longrise'}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'DB': {'base': {'dbname': 'BASE', 'ip': '192.168.7.216', 'user': '', 'password': '', 'port': 27017, 'type': 'mongo'}, 'YXYBB': {'dbname': 'YXYBB', 'ip': '192.168.7.216', 'user': '', 'password': '', 'port': 27017, 'type': 'mongo'}, 'BBT': {'dbname': 'BBT', 'ip': '192.168.7.216', 'user': '', 'password': '', 'port': 27017, 'type': 'mongo'}, 'OAMP': {'dbname': 'OAMP', 'ip': '192.168.7.216', 'user': '', 'password': '', 'port': 27017, 'type': 'mongo'}}}
+[    INFO]-[2017-07-04 17:13:19,645]-Init.py :Line:20 : DB init start
+[    INFO]-[2017-07-04 17:13:22,723]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:13:25,550]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:13:25,550]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:13:25,550]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:13:25,550]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:13:25,553]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:13:28,642]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:13:28,650]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:13:28,651]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:13:28,653]-Init.py :Line:23 : receive mongodb log start
+[    INFO]-[2017-07-04 17:20:40,559]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:20:40,564]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}, 'project': {'port': 6379, 'context': 'static', 'password': 'longrise'}, 'server': {'port': 8001}, 'DB': {'YXYBB': {'port': 27017, 'user': '', 'dbname': 'YXYBB', 'ip': '192.168.7.216', 'type': 'mongo', 'password': ''}, 'base': {'port': 27017, 'user': '', 'dbname': 'BASE', 'ip': '192.168.7.216', 'type': 'mongo', 'password': ''}, 'BBT': {'port': 27017, 'user': '', 'dbname': 'BBT', 'ip': '192.168.7.216', 'type': 'mongo', 'password': ''}, 'OAMP': {'port': 27017, 'user': '', 'dbname': 'OAMP', 'ip': '192.168.7.216', 'type': 'mongo', 'password': ''}}, 'rabbitMQ': {'port': 'None', 'ip': '192.168.7.216', 'user': 'longrise', 'password': 'longrise'}}
+[    INFO]-[2017-07-04 17:20:40,568]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:20:40,569]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:20:40,586]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:20:40,586]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:20:40,586]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:20:40,587]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:20:40,590]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:20:40,591]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:20:40,601]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:20:40,602]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:20:40,605]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:21:07,395]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:21:07,396]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'rabbitMQ': {'password': 'longrise', 'port': 'None', 'ip': '192.168.7.216', 'user': 'longrise'}, 'DB': {'BBT': {'dbname': 'BBT', 'password': '', 'ip': '192.168.7.216', 'port': 27017, 'user': '', 'type': 'mongo'}, 'OAMP': {'dbname': 'OAMP', 'password': '', 'ip': '192.168.7.216', 'port': 27017, 'user': '', 'type': 'mongo'}, 'base': {'dbname': 'BASE', 'password': '', 'ip': '192.168.7.216', 'port': 27017, 'user': '', 'type': 'mongo'}, 'YXYBB': {'dbname': 'YXYBB', 'password': '', 'ip': '192.168.7.216', 'port': 27017, 'user': '', 'type': 'mongo'}}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'server': {'port': 8001}}
+[    INFO]-[2017-07-04 17:21:07,399]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:21:07,399]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:21:07,408]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:21:07,408]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:21:07,409]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:21:07,409]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:21:07,411]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:21:07,411]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:21:07,426]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:21:07,427]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:21:07,428]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:21:25,817]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:21:25,819]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'rabbitMQ': {'user': 'longrise', 'password': 'longrise', 'port': 'None', 'ip': '192.168.7.216'}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'DB': {'YXYBB': {'dbname': 'YXYBB', 'password': '', 'port': 27017, 'type': 'mongo', 'user': '', 'ip': '192.168.7.216'}, 'BBT': {'dbname': 'BBT', 'password': '', 'port': 27017, 'type': 'mongo', 'user': '', 'ip': '192.168.7.216'}, 'OAMP': {'dbname': 'OAMP', 'password': '', 'port': 27017, 'type': 'mongo', 'user': '', 'ip': '192.168.7.216'}, 'base': {'dbname': 'BASE', 'password': '', 'port': 27017, 'type': 'mongo', 'user': '', 'ip': '192.168.7.216'}}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}}
+[    INFO]-[2017-07-04 17:21:25,822]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:21:25,823]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:21:25,851]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:21:25,852]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:21:25,852]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:21:25,853]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:21:25,857]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:21:25,858]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:21:25,866]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:21:25,868]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:21:25,870]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:23:10,406]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:23:10,408]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'rabbitMQ': {'password': 'longrise', 'user': 'longrise', 'ip': '192.168.7.216', 'port': 'None'}, 'DB': {'BBT': {'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'password': '', 'user': '', 'dbname': 'BBT'}, 'OAMP': {'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'password': '', 'user': '', 'dbname': 'OAMP'}, 'YXYBB': {'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'password': '', 'user': '', 'dbname': 'YXYBB'}, 'base': {'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'password': '', 'user': '', 'dbname': 'BASE'}}, 'server': {'port': 8001}, 'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}}
+[    INFO]-[2017-07-04 17:23:10,415]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:23:10,416]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:23:10,433]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:23:10,433]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:23:10,434]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:23:10,434]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:23:10,437]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:23:10,437]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:23:10,445]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:23:10,446]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:23:10,447]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:23:16,128]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:23:16,130]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'port': 6379, 'password': 'longrise', 'context': 'static'}, 'server': {'port': 8001}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise', 'port': 'None'}, 'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'DB': {'YXYBB': {'type': 'mongo', 'dbname': 'YXYBB', 'user': '', 'ip': '192.168.7.216', 'password': '', 'port': 27017}, 'OAMP': {'type': 'mongo', 'dbname': 'OAMP', 'user': '', 'ip': '192.168.7.216', 'password': '', 'port': 27017}, 'BBT': {'type': 'mongo', 'dbname': 'BBT', 'user': '', 'ip': '192.168.7.216', 'password': '', 'port': 27017}, 'base': {'type': 'mongo', 'dbname': 'BASE', 'user': '', 'ip': '192.168.7.216', 'password': '', 'port': 27017}}}
+[    INFO]-[2017-07-04 17:23:16,133]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:23:16,133]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:23:16,138]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:23:16,139]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:23:16,139]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:23:16,139]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:23:16,141]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:23:16,142]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:23:16,150]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:23:16,152]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:23:16,153]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:24:29,090]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:24:29,092]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'rabbitMQ': {'user': 'longrise', 'password': 'longrise', 'port': 'None', 'ip': '192.168.7.216'}, 'DB': {'BBT': {'type': 'mongo', 'user': '', 'port': 27017, 'dbname': 'BBT', 'password': '', 'ip': '192.168.7.216'}, 'YXYBB': {'type': 'mongo', 'user': '', 'port': 27017, 'dbname': 'YXYBB', 'password': '', 'ip': '192.168.7.216'}, 'base': {'type': 'mongo', 'user': '', 'port': 27017, 'dbname': 'BASE', 'password': '', 'ip': '192.168.7.216'}, 'OAMP': {'type': 'mongo', 'user': '', 'port': 27017, 'dbname': 'OAMP', 'password': '', 'ip': '192.168.7.216'}}, 'server': {'port': 8001}}
+[    INFO]-[2017-07-04 17:24:29,096]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:24:29,097]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:24:29,103]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:24:29,104]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:24:29,104]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:24:29,105]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:24:29,107]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:24:29,107]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:24:29,124]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:24:29,125]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:24:29,126]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:26:04,953]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:26:04,954]-Conf_func.py :Line:26 : init conf_json info is : {'DB': {'OAMP': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'OAMP', 'password': '', 'user': '', 'port': 27017}, 'BBT': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'BBT', 'password': '', 'user': '', 'port': 27017}, 'YXYBB': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'YXYBB', 'password': '', 'user': '', 'port': 27017}, 'base': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'BASE', 'password': '', 'user': '', 'port': 27017}}, 'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'rabbitMQ': {'password': 'longrise', 'user': 'longrise', 'port': 'None', 'ip': '192.168.7.216'}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'server': {'port': 8001}}
+[    INFO]-[2017-07-04 17:26:04,958]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:26:04,958]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:26:04,974]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:26:04,974]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:26:04,974]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:26:04,975]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:26:04,976]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:26:04,977]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:26:04,992]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:26:04,993]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:26:04,994]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:26:18,858]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:26:18,861]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise', 'port': 'None'}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'server': {'port': 8001}, 'DB': {'base': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'dbname': 'BASE', 'password': ''}, 'YXYBB': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'dbname': 'YXYBB', 'password': ''}, 'OAMP': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'dbname': 'OAMP', 'password': ''}, 'BBT': {'user': '', 'ip': '192.168.7.216', 'port': 27017, 'type': 'mongo', 'dbname': 'BBT', 'password': ''}}}
+[    INFO]-[2017-07-04 17:26:18,864]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:26:18,864]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:26:18,880]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:26:18,880]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:26:18,881]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:26:18,881]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:26:18,883]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:26:18,883]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:26:18,888]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:26:18,889]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:26:18,889]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:28:14,262]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:28:14,263]-Conf_func.py :Line:26 : init conf_json info is : {'DB': {'OAMP': {'dbname': 'OAMP', 'password': '', 'ip': '192.168.7.216', 'user': '', 'port': 27017, 'type': 'mongo'}, 'base': {'dbname': 'BASE', 'password': '', 'ip': '192.168.7.216', 'user': '', 'port': 27017, 'type': 'mongo'}, 'BBT': {'dbname': 'BBT', 'password': '', 'ip': '192.168.7.216', 'user': '', 'port': 27017, 'type': 'mongo'}, 'YXYBB': {'dbname': 'YXYBB', 'password': '', 'ip': '192.168.7.216', 'user': '', 'port': 27017, 'type': 'mongo'}}, 'server': {'port': 8001}, 'rabbitMQ': {'port': 'None', 'password': 'longrise', 'ip': '192.168.7.216', 'user': 'longrise'}, 'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}, 'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}}
+[    INFO]-[2017-07-04 17:28:14,267]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:28:14,267]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:28:14,276]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:28:14,277]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:28:14,277]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:28:14,278]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:28:14,281]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:28:14,281]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:28:14,294]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:28:14,295]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:28:14,297]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:31:17,389]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:31:17,390]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'DB': {'YXYBB': {'type': 'mongo', 'password': '', 'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'YXYBB'}, 'BBT': {'type': 'mongo', 'password': '', 'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'BBT'}, 'OAMP': {'type': 'mongo', 'password': '', 'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'OAMP'}, 'base': {'type': 'mongo', 'password': '', 'user': '', 'ip': '192.168.7.216', 'port': 27017, 'dbname': 'BASE'}}, 'rabbitMQ': {'user': 'longrise', 'port': 'None', 'password': 'longrise', 'ip': '192.168.7.216'}, 'server': {'port': 8001}, 'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}}
+[    INFO]-[2017-07-04 17:31:17,394]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:31:17,395]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:31:17,406]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:31:17,406]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:31:17,407]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:31:17,407]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:31:17,409]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:31:17,410]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:31:17,422]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:31:17,423]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:31:17,423]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:31:55,776]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:31:55,778]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'port': 6379, 'context': 'static', 'password': 'longrise'}, 'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}, 'DB': {'OAMP': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'dbname': 'OAMP', 'password': ''}, 'YXYBB': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'dbname': 'YXYBB', 'password': ''}, 'base': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'dbname': 'BASE', 'password': ''}, 'BBT': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'dbname': 'BBT', 'password': ''}}, 'server': {'port': 8001}, 'rabbitMQ': {'port': 'None', 'user': 'longrise', 'password': 'longrise', 'ip': '192.168.7.216'}}
+[    INFO]-[2017-07-04 17:31:55,781]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:31:55,782]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:31:55,800]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:31:55,800]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:31:55,801]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:31:55,801]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:31:55,803]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:31:55,804]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:31:55,822]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:31:55,823]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:31:55,827]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:36:47,053]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:36:47,055]-Conf_func.py :Line:26 : init conf_json info is : {'DB': {'base': {'user': '', 'type': 'mongo', 'ip': '192.168.7.216', 'password': '', 'port': 27017, 'dbname': 'BASE'}, 'YXYBB': {'user': '', 'type': 'mongo', 'ip': '192.168.7.216', 'password': '', 'port': 27017, 'dbname': 'YXYBB'}, 'BBT': {'user': '', 'type': 'mongo', 'ip': '192.168.7.216', 'password': '', 'port': 27017, 'dbname': 'BBT'}, 'OAMP': {'user': '', 'type': 'mongo', 'ip': '192.168.7.216', 'password': '', 'port': 27017, 'dbname': 'OAMP'}}, 'server': {'port': 8001}, 'rabbitMQ': {'user': 'longrise', 'password': 'longrise', 'port': 'None', 'ip': '192.168.7.216'}, 'redisConf': {'port': 6379, 'password': 'longrise', 'host': '192.168.7.216'}, 'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}}
+[    INFO]-[2017-07-04 17:36:47,058]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:36:47,058]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:36:47,069]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:36:47,070]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:36:47,070]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:36:47,070]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:36:47,072]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:36:47,763]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:37:17,327]-Statistic_item_func.py :Line:36 : init exist item ,init data is : [{'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'FR_trDs_uStudyRecord'}, {'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'bbt_course_uStudyRecordByAndroid'}]
+[    INFO]-[2017-07-04 17:37:30,087]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:37:31,767]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:38:41,408]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:38:41,409]-Conf_func.py :Line:26 : init conf_json info is : {'DB': {'base': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'dbname': 'BASE', 'type': 'mongo', 'password': ''}, 'BBT': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'dbname': 'BBT', 'type': 'mongo', 'password': ''}, 'YXYBB': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'dbname': 'YXYBB', 'type': 'mongo', 'password': ''}, 'OAMP': {'port': 27017, 'user': '', 'ip': '192.168.7.216', 'dbname': 'OAMP', 'type': 'mongo', 'password': ''}}, 'server': {'port': 8001}, 'project': {'port': 6379, 'password': 'longrise', 'context': 'static'}, 'rabbitMQ': {'port': 'None', 'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise'}, 'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}}
+[    INFO]-[2017-07-04 17:38:41,413]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:38:41,413]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:38:41,430]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:38:41,431]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:38:41,431]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:38:41,432]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:38:41,435]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:38:42,111]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:38:43,438]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:38:44,471]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:38:45,206]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:41:16,130]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:41:16,131]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}, 'redisConf': {'host': '192.168.7.216', 'port': 6379, 'password': 'longrise'}, 'DB': {'YXYBB': {'ip': '192.168.7.216', 'password': '', 'type': 'mongo', 'dbname': 'YXYBB', 'user': '', 'port': 27017}, 'base': {'ip': '192.168.7.216', 'password': '', 'type': 'mongo', 'dbname': 'BASE', 'user': '', 'port': 27017}, 'OAMP': {'ip': '192.168.7.216', 'password': '', 'type': 'mongo', 'dbname': 'OAMP', 'user': '', 'port': 27017}, 'BBT': {'ip': '192.168.7.216', 'password': '', 'type': 'mongo', 'dbname': 'BBT', 'user': '', 'port': 27017}}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'port': 'None', 'password': 'longrise'}, 'server': {'port': 8001}}
+[    INFO]-[2017-07-04 17:41:16,134]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:41:16,134]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:41:16,151]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:41:16,151]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:41:16,152]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:41:16,152]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:41:16,155]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:41:18,278]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:41:18,294]-Statistic_item_func.py :Line:36 : init exist item ,init data is : []
+[    INFO]-[2017-07-04 17:41:18,295]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:41:18,296]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:42:41,841]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:42:41,842]-Conf_func.py :Line:26 : init conf_json info is : {'rabbitMQ': {'password': 'longrise', 'ip': '192.168.7.216', 'user': 'longrise', 'port': 'None'}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'server': {'port': 8001}, 'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'DB': {'base': {'dbname': 'BASE', 'user': '', 'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'port': 27017}, 'BBT': {'dbname': 'BBT', 'user': '', 'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'port': 27017}, 'OAMP': {'dbname': 'OAMP', 'user': '', 'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'port': 27017}, 'YXYBB': {'dbname': 'YXYBB', 'user': '', 'type': 'mongo', 'password': '', 'ip': '192.168.7.216', 'port': 27017}}}
+[    INFO]-[2017-07-04 17:42:41,843]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:42:41,843]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:42:41,856]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:42:41,856]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:42:41,857]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:42:41,857]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:42:41,858]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:42:41,858]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:42:41,872]-Statistic_item_func.py :Line:36 : init exist item ,init data is : [{'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'bbt_login_sUserLogin'}, {'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'bbt_course_uStudyRecordByIos'}, {'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'FR_trDs_uStudyRecord'}, {'project_name': 'APPTEST', 'statistic_type': 'interface', 'statistic_name': 'bbt_course_uStudyRecordByAndroid'}]
+[    INFO]-[2017-07-04 17:42:41,873]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:42:41,873]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-04 17:43:25,677]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-04 17:43:25,678]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'host': '192.168.7.216', 'password': 'longrise', 'port': 6379}, 'server': {'port': 8001}, 'project': {'context': 'static', 'password': 'longrise', 'port': 6379}, 'DB': {'OAMP': {'type': 'mongo', 'dbname': 'OAMP', 'port': 27017, 'ip': '192.168.7.216', 'password': '', 'user': ''}, 'YXYBB': {'type': 'mongo', 'dbname': 'YXYBB', 'port': 27017, 'ip': '192.168.7.216', 'password': '', 'user': ''}, 'base': {'type': 'mongo', 'dbname': 'BASE', 'port': 27017, 'ip': '192.168.7.216', 'password': '', 'user': ''}, 'BBT': {'type': 'mongo', 'dbname': 'BBT', 'port': 27017, 'ip': '192.168.7.216', 'password': '', 'user': ''}}, 'rabbitMQ': {'ip': '192.168.7.216', 'password': 'longrise', 'user': 'longrise', 'port': 'None'}}
+[    INFO]-[2017-07-04 17:43:25,678]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-04 17:43:25,679]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-04 17:43:25,682]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-04 17:43:25,683]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-04 17:43:25,683]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-04 17:43:25,683]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-04 17:43:25,684]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-04 17:43:25,685]-Statistic_item_func.py :Line:20 : init exist item data 
+[    INFO]-[2017-07-04 17:43:25,689]-Statistic_item_func.py :Line:36 : init exist item ,init data is : [{'project_name': 'APPTEST', 'statistic_name': 'bbt_login_sUserLogin', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_course_uStudyRecordByIos', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'FR_trDs_uStudyRecord', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_course_uStudyRecordByAndroid', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_course_uStudyRecord_offlineByIos', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_login_sUserLoginByMobile', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_course_uStudyRecord_offlineByAndroid', 'statistic_type': 'interface'}, {'project_name': 'APPTEST', 'statistic_name': 'bbt_login_openPersonMobileLogin', 'statistic_type': 'interface'}]
+[    INFO]-[2017-07-04 17:43:25,690]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-04 17:43:25,691]-Init.py :Line:24 : receive mongodb log start
+[    INFO]-[2017-07-05 09:46:07,311]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 09:46:07,321]-JsonFileFunc.py :Line:23 : read [ G:/share/python-workspace/MQSTATIC/conf\statical_rule.json ] not exists
+[   ERROR]-[2017-07-05 09:46:07,321]-JsonFileFunc.py :Line:24 : errorMsg:Expecting property name enclosed in double quotes: line 3 column 5 (char 50)
+[   DEBUG]-[2017-07-05 09:46:07,322]-Conf_func.py :Line:26 : init conf_json info is : {'rabbitMQ': {'password': 'longrise', 'port': 'None', 'user': 'longrise', 'ip': '192.168.7.216'}, 'project': {'password': 'longrise', 'context': 'static', 'port': 6379}, 'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}, 'DB': {'base': {'password': '', 'dbname': 'BASE', 'type': 'mongo', 'port': 27017, 'user': '', 'ip': '192.168.7.216'}, 'OAMP': {'password': '', 'dbname': 'OAMP', 'type': 'mongo', 'port': 27017, 'user': '', 'ip': '192.168.7.216'}, 'YXYBB': {'password': '', 'dbname': 'YXYBB', 'type': 'mongo', 'port': 27017, 'user': '', 'ip': '192.168.7.216'}, 'BBT': {'password': '', 'dbname': 'BBT', 'type': 'mongo', 'port': 27017, 'user': '', 'ip': '192.168.7.216'}}, 'statical_rule': None, 'server': {'port': 8001}}
+[    INFO]-[2017-07-05 09:46:07,328]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 09:46:07,329]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 09:46:07,360]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 09:46:07,361]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 09:46:07,361]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 09:46:07,363]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 09:46:07,368]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 09:46:35,577]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 09:46:35,579]-JsonFileFunc.py :Line:23 : read [ G:/share/python-workspace/MQSTATIC/conf\statical_rule.json ] not exists
+[   ERROR]-[2017-07-05 09:46:35,579]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 5 column 1 (char 94)
+[   DEBUG]-[2017-07-05 09:46:35,579]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'rabbitMQ': {'password': 'longrise', 'user': 'longrise', 'port': 'None', 'ip': '192.168.7.216'}, 'statical_rule': None, 'DB': {'YXYBB': {'password': '', 'port': 27017, 'dbname': 'YXYBB', 'ip': '192.168.7.216', 'user': '', 'type': 'mongo'}, 'BBT': {'password': '', 'port': 27017, 'dbname': 'BBT', 'ip': '192.168.7.216', 'user': '', 'type': 'mongo'}, 'base': {'password': '', 'port': 27017, 'dbname': 'BASE', 'ip': '192.168.7.216', 'user': '', 'type': 'mongo'}, 'OAMP': {'password': '', 'port': 27017, 'dbname': 'OAMP', 'ip': '192.168.7.216', 'user': '', 'type': 'mongo'}}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}}
+[    INFO]-[2017-07-05 09:46:35,582]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 09:46:35,583]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 09:46:35,590]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 09:46:35,591]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 09:46:35,591]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 09:46:35,592]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 09:46:35,594]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 09:47:11,461]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 09:47:11,463]-JsonFileFunc.py :Line:23 : read [ G:/share/python-workspace/MQSTATIC/conf\statical_rule.json ] not exists
+[   ERROR]-[2017-07-05 09:47:11,464]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 15 column 1 (char 130)
+[   DEBUG]-[2017-07-05 09:47:11,464]-Conf_func.py :Line:26 : init conf_json info is : {'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}, 'rabbitMQ': {'user': 'longrise', 'password': 'longrise', 'ip': '192.168.7.216', 'port': 'None'}, 'DB': {'base': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'dbname': 'BASE', 'port': 27017}, 'OAMP': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'dbname': 'OAMP', 'port': 27017}, 'BBT': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'dbname': 'BBT', 'port': 27017}, 'YXYBB': {'user': '', 'ip': '192.168.7.216', 'type': 'mongo', 'password': '', 'dbname': 'YXYBB', 'port': 27017}}, 'redisConf': {'password': 'longrise', 'host': '192.168.7.216', 'port': 6379}, 'server': {'port': 8001}, 'statical_rule': None}
+[    INFO]-[2017-07-05 09:47:11,467]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 09:47:11,468]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 09:47:11,483]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 09:47:11,483]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 09:47:11,484]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 09:47:11,484]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 09:47:11,486]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 09:47:39,491]-Init.py :Line:18 : conf file init start
+[   DEBUG]-[2017-07-05 09:47:39,492]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'redisConf': {'host': '192.168.7.216', 'port': 6379, 'password': 'longrise'}, 'statical_rule': {'statical_step': [1, 5, 30, 60, 360, 720], 'statical_type': ['interface', 'http']}, 'rabbitMQ': {'user': 'longrise', 'ip': '192.168.7.216', 'port': 'None', 'password': 'longrise'}, 'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}, 'DB': {'YXYBB': {'user': '', 'port': 27017, 'ip': '192.168.7.216', 'dbname': 'YXYBB', 'type': 'mongo', 'password': ''}, 'OAMP': {'user': '', 'port': 27017, 'ip': '192.168.7.216', 'dbname': 'OAMP', 'type': 'mongo', 'password': ''}, 'BBT': {'user': '', 'port': 27017, 'ip': '192.168.7.216', 'dbname': 'BBT', 'type': 'mongo', 'password': ''}, 'base': {'user': '', 'port': 27017, 'ip': '192.168.7.216', 'dbname': 'BASE', 'type': 'mongo', 'password': ''}}}
+[    INFO]-[2017-07-05 09:47:39,496]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 09:47:39,496]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 09:47:39,501]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 09:47:39,501]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 09:47:39,502]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 09:47:39,502]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 09:47:39,503]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 10:24:41,521]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 10:24:41,522]-JsonFileFunc.py :Line:23 : read [ G:/share/python-workspace/MQSTATIC/conf\statical_rule_bak.json ] not exists
+[   ERROR]-[2017-07-05 10:24:41,523]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 28 column 1 (char 372)
+[   DEBUG]-[2017-07-05 10:24:41,523]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}, 'rabbitMQ': {'port': 'None', 'user': 'longrise', 'ip': '192.168.7.216', 'password': 'longrise'}, 'statical_rule': {'statical_step': [1, 5, 30, 60, 360, 720], 'statical_type': ['interface', 'http'], 'except': [{'statistic_name': 'login', 'statistic_type': 'interface', 'project_name': 'APPTEST'}, {'statistic_name': 'login', 'statistic_type': 'interface', 'project_name': 'APPTEST'}]}, 'DB': {'base': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'BASE', 'port': 27017, 'user': '', 'password': ''}, 'OAMP': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'OAMP', 'port': 27017, 'user': '', 'password': ''}, 'YXYBB': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'YXYBB', 'port': 27017, 'user': '', 'password': ''}, 'BBT': {'type': 'mongo', 'ip': '192.168.7.216', 'dbname': 'BBT', 'port': 27017, 'user': '', 'password': ''}}, 'server': {'port': 8001}, 'statical_rule_bak': None, 'project': {'port': 6379, 'password': 'longrise', 'context': 'static'}}
+[    INFO]-[2017-07-05 10:24:41,526]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 10:24:41,527]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 10:24:41,542]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 10:24:41,542]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 10:24:41,542]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 10:24:41,542]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 10:24:41,544]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 10:24:43,861]-Statistic_item_func.py :Line:21 : init exist item data 
+[    INFO]-[2017-07-05 10:25:20,617]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 10:25:20,619]-JsonFileFunc.py :Line:23 : read [ G:/share/python-workspace/MQSTATIC/conf\statical_rule_bak.json ] not exists
+[   ERROR]-[2017-07-05 10:25:20,619]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 28 column 1 (char 372)
+[   DEBUG]-[2017-07-05 10:25:20,619]-Conf_func.py :Line:26 : init conf_json info is : {'statical_rule_bak': None, 'redisConf': {'port': 6379, 'password': 'longrise', 'host': '192.168.7.216'}, 'server': {'port': 8001}, 'rabbitMQ': {'user': 'longrise', 'port': 'None', 'password': 'longrise', 'ip': '192.168.7.216'}, 'project': {'port': 6379, 'context': 'static', 'password': 'longrise'}, 'statical_rule': {'except': [{'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'login'}, {'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'login'}], 'statical_step': [1, 5, 30, 60, 360, 720], 'statical_type': ['interface', 'http']}, 'DB': {'YXYBB': {'user': '', 'type': 'mongo', 'dbname': 'YXYBB', 'password': '', 'port': 27017, 'ip': '192.168.7.216'}, 'BBT': {'user': '', 'type': 'mongo', 'dbname': 'BBT', 'password': '', 'port': 27017, 'ip': '192.168.7.216'}, 'base': {'user': '', 'type': 'mongo', 'dbname': 'BASE', 'password': '', 'port': 27017, 'ip': '192.168.7.216'}, 'OAMP': {'user': '', 'type': 'mongo', 'dbname': 'OAMP', 'password': '', 'port': 27017, 'ip': '192.168.7.216'}}}
+[    INFO]-[2017-07-05 10:25:20,623]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 10:25:20,623]-DB_init.py :Line:44 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 10:25:20,629]-DB_init.py :Line:35 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 10:25:20,629]-DB_init.py :Line:35 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 10:25:20,629]-DB_init.py :Line:35 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 10:25:20,630]-DB_init.py :Line:35 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 10:25:20,631]-DB_init.py :Line:48 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 10:25:21,845]-Statistic_item_func.py :Line:21 : init exist item data 
+[    INFO]-[2017-07-05 10:25:23,950]-Statistic_item_func.py :Line:37 : init exist item ,init data is : []
+[    INFO]-[2017-07-05 10:25:28,159]-DB_init.py :Line:52 : start sys , compute all count data 
+[    INFO]-[2017-07-05 10:25:30,489]-Init.py :Line:24 : receive mongodb log start
+[   DEBUG]-[2017-07-05 10:26:01,594]-Statistical_item_func.py :Line:31 : add statistical item info is [{'statistical_step': 1, '_id': ObjectId('595c4e38b871b81794f36530'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}, {'statistical_step': 5, '_id': ObjectId('595c4e38b871b81794f36531'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}, {'statistical_step': 30, '_id': ObjectId('595c4e38b871b81794f36532'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}, {'statistical_step': 60, '_id': ObjectId('595c4e38b871b81794f36533'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}, {'statistical_step': 360, '_id': ObjectId('595c4e38b871b81794f36534'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}, {'statistical_step': 720, '_id': ObjectId('595c4e38b871b81794f36535'), 'statistical_type': 'interface', 'statistical_start_time': '2017-07-05 10:25:36.997861', 'project_name': 'APPTEST', 'create_time': '2017-07-05 10:25:35.708772'}]
+[    INFO]-[2017-07-05 11:24:26,024]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 11:24:26,025]-JsonFileFunc.py :Line:23 : read [ G:\share\python-workspace\MQSTATIC\conf\statical_rule_bak.json ] not exists
+[   ERROR]-[2017-07-05 11:24:26,026]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 28 column 1 (char 372)
+[   DEBUG]-[2017-07-05 11:24:26,026]-Conf_func.py :Line:26 : init conf_json info is : {'server': {'port': 8001}, 'redisConf': {'password': 'longrise', 'port': 6379, 'host': '192.168.7.216'}, 'project': {'password': 'longrise', 'port': 6379, 'context': 'static'}, 'statical_rule_bak': None, 'rabbitMQ': {'password': 'longrise', 'port': 'None', 'user': 'longrise', 'ip': '192.168.7.216'}, 'statical_rule': {'statical_type': ['interface', 'http'], 'statical_step': [1, 5, 30, 60, 360, 720], 'except': [{'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'login'}, {'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'login'}]}, 'DB': {'base': {'password': '', 'ip': '192.168.7.216', 'dbname': 'BASE', 'port': 27017, 'user': '', 'type': 'mongo'}, 'YXYBB': {'password': '', 'ip': '192.168.7.216', 'dbname': 'YXYBB', 'port': 27017, 'user': '', 'type': 'mongo'}, 'OAMP': {'password': '', 'ip': '192.168.7.216', 'dbname': 'OAMP', 'port': 27017, 'user': '', 'type': 'mongo'}, 'BBT': {'password': '', 'ip': '192.168.7.216', 'dbname': 'BBT', 'port': 27017, 'user': '', 'type': 'mongo'}}}
+[    INFO]-[2017-07-05 11:24:26,027]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 11:24:26,027]-DB_init.py :Line:45 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 11:24:26,042]-DB_init.py :Line:36 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 11:24:26,042]-DB_init.py :Line:36 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 11:24:26,042]-DB_init.py :Line:36 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 11:24:26,043]-DB_init.py :Line:36 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 11:24:26,044]-DB_init.py :Line:49 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 11:24:26,044]-Statistic_item_func.py :Line:21 : init exist item data 
+[    INFO]-[2017-07-05 11:24:26,067]-Statistic_item_func.py :Line:37 : init exist item ,init data is : [{'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'bbt_login_sUserLogin'}, {'statistic_type': 'interface', 'project_name': 'APPTEST', 'statistic_name': 'FR_trDs_uStudyRecord'}]
+[    INFO]-[2017-07-05 11:24:26,067]-DB_init.py :Line:53 : start sys , compute all count data 
+[    INFO]-[2017-07-05 11:35:07,846]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 11:35:07,847]-JsonFileFunc.py :Line:23 : read [ G:\share\python-workspace\MQSTATIC\conf\statical_rule_bak.json ] not exists
+[   ERROR]-[2017-07-05 11:35:07,847]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 28 column 1 (char 372)
+[   DEBUG]-[2017-07-05 11:35:07,847]-Conf_func.py :Line:26 : init conf_json info is : {'statical_rule': {'statical_step': [1, 5, 30, 60, 360, 720], 'except': [{'statistic_name': 'login', 'project_name': 'APPTEST', 'statistic_type': 'interface'}, {'statistic_name': 'login', 'project_name': 'APPTEST', 'statistic_type': 'interface'}], 'statical_type': ['interface', 'http']}, 'DB': {'YXYBB': {'dbname': 'YXYBB', 'user': '', 'password': '', 'type': 'mongo', 'ip': '192.168.7.216', 'port': 27017}, 'base': {'dbname': 'BASE', 'user': '', 'password': '', 'type': 'mongo', 'ip': '192.168.7.216', 'port': 27017}, 'BBT': {'dbname': 'BBT', 'user': '', 'password': '', 'type': 'mongo', 'ip': '192.168.7.216', 'port': 27017}, 'OAMP': {'dbname': 'OAMP', 'user': '', 'password': '', 'type': 'mongo', 'ip': '192.168.7.216', 'port': 27017}}, 'redisConf': {'host': '192.168.7.216', 'port': 6379, 'password': 'longrise'}, 'statical_rule_bak': None, 'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}, 'server': {'port': 8001}, 'rabbitMQ': {'password': 'longrise', 'port': 'None', 'ip': '192.168.7.216', 'user': 'longrise'}}
+[    INFO]-[2017-07-05 11:35:07,848]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 11:35:07,848]-DB_init.py :Line:45 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 11:35:07,862]-DB_init.py :Line:36 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 11:35:07,862]-DB_init.py :Line:36 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 11:35:07,862]-DB_init.py :Line:36 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 11:35:07,862]-DB_init.py :Line:36 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 11:35:07,863]-DB_init.py :Line:49 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 11:35:07,863]-Statistic_item_func.py :Line:21 : init exist item data 
+[    INFO]-[2017-07-05 11:35:07,877]-Statistic_item_func.py :Line:37 : init exist item ,init data is : [{'statistic_name': 'bbt_login_sUserLogin', 'project_name': 'APPTEST', 'statistic_type': 'interface'}, {'statistic_name': 'FR_trDs_uStudyRecord', 'project_name': 'APPTEST', 'statistic_type': 'interface'}]
+[    INFO]-[2017-07-05 11:35:07,878]-DB_init.py :Line:53 : start sys , compute all count data 
+[    INFO]-[2017-07-05 11:41:40,364]-Init.py :Line:18 : conf file init start
+[   ERROR]-[2017-07-05 11:41:40,365]-JsonFileFunc.py :Line:23 : read [ G:\share\python-workspace\MQSTATIC\conf\statical_rule_bak.json ] not exists
+[   ERROR]-[2017-07-05 11:41:40,365]-JsonFileFunc.py :Line:24 : errorMsg:Extra data: line 28 column 1 (char 372)
+[   DEBUG]-[2017-07-05 11:41:40,366]-Conf_func.py :Line:26 : init conf_json info is : {'redisConf': {'port': 6379, 'host': '192.168.7.216', 'password': 'longrise'}, 'rabbitMQ': {'ip': '192.168.7.216', 'port': 'None', 'user': 'longrise', 'password': 'longrise'}, 'server': {'port': 8001}, 'statical_rule': {'statical_step': [1, 5, 30, 60, 360, 720], 'statical_type': ['interface', 'http'], 'except': [{'statistic_type': 'interface', 'statistic_name': 'login', 'project_name': 'APPTEST'}, {'statistic_type': 'interface', 'statistic_name': 'login', 'project_name': 'APPTEST'}]}, 'project': {'context': 'static', 'port': 6379, 'password': 'longrise'}, 'DB': {'BBT': {'port': 27017, 'dbname': 'BBT', 'ip': '192.168.7.216', 'user': '', 'password': '', 'type': 'mongo'}, 'OAMP': {'port': 27017, 'dbname': 'OAMP', 'ip': '192.168.7.216', 'user': '', 'password': '', 'type': 'mongo'}, 'YXYBB': {'port': 27017, 'dbname': 'YXYBB', 'ip': '192.168.7.216', 'user': '', 'password': '', 'type': 'mongo'}, 'base': {'port': 27017, 'dbname': 'BASE', 'ip': '192.168.7.216', 'user': '', 'password': '', 'type': 'mongo'}}, 'statical_rule_bak': None}
+[    INFO]-[2017-07-05 11:41:40,366]-Init.py :Line:21 : DB init start
+[    INFO]-[2017-07-05 11:41:40,367]-DB_init.py :Line:45 : start sys , init DB_ds 
+[    INFO]-[2017-07-05 11:41:40,382]-DB_init.py :Line:36 : init DB_ds , insert data: BBT : BBT
+[    INFO]-[2017-07-05 11:41:40,383]-DB_init.py :Line:36 : init DB_ds , insert data: OAMP : OAMP
+[    INFO]-[2017-07-05 11:41:40,383]-DB_init.py :Line:36 : init DB_ds , insert data: YXYBB : YXYBB
+[    INFO]-[2017-07-05 11:41:40,383]-DB_init.py :Line:36 : init DB_ds , insert data: base : BASE
+[    INFO]-[2017-07-05 11:41:40,384]-DB_init.py :Line:49 : start sys , init statistical_item 
+[    INFO]-[2017-07-05 11:41:40,384]-Statistic_item_func.py :Line:21 : init exist item data 
+[    INFO]-[2017-07-05 11:41:40,387]-Statistic_item_func.py :Line:37 : init exist item ,init data is : [{'statistic_type': 'interface', 'statistic_name': 'bbt_login_sUserLogin', 'project_name': 'APPTEST'}, {'statistic_type': 'interface', 'statistic_name': 'FR_trDs_uStudyRecord', 'project_name': 'APPTEST'}]
+[    INFO]-[2017-07-05 11:41:40,388]-DB_init.py :Line:53 : start sys , compute all count data 

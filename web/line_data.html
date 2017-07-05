@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="{{ static_url('./css/normalize.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ static_url('./css/common.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ static_url('./css/main.css') }}" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="{{ static_url('./js/http.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('./js/static/echarts.min.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('./js/static/jquery.1.7.2.min.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('./js/static/CODE.js') }}"></script>
+    <script type="text/javascript" src="{{ static_url('./js/service/line_data.js') }}"></script>
+    <title>折线图数据统计</title>
+</head>
+<body>
+<div class="page-container">
+    <div class="public-header">
+        <div class="public-logo"><img class="header-logo"></div>
+        <ul class="public-title">
+            <li class="public-title-content"><a href="">首页</a></li>
+            <li class="public-title-content"><a href="">统计</a></li>
+            <li class="public-title-content"><a href="">运维</a></li>
+            <li class="public-title-content"><a href="">预警</a></li>
+            <li class="public-title-content"><a href="">记录</a></li>
+        </ul>
+    </div>
+    <div class="search">
+        <div class="search-basic">
+            <form>
+                <div class="search-opt-single">
+                    <label>起始时间:</label>
+                    <input class="search-time" type="datetime-local" value="2015-09-24T13:59:59"/>
+                </div>
+                <div class="search-opt-single">
+                    <label>截止时间:</label>
+                    <input class="search-time" type="datetime-local" value="2015-09-24T13:59:59"/>
+                </div>
+                <div class="search-opt-single">
+                    <label>查询单位时间:</label>
+                    <select class="search-select">
+                        <option>1 min</option>
+                        <option>5 min</option>
+                        <option>30 min</option>
+                        <option>60 min</option>
+                        <option>1 hour</option>
+                        <option>6 hour</option>
+                        <option>12 hour</option>
+                        <option>1 day</option>
+                    </select>
+                </div>
+                <div class="search-opt-single">
+                    <label>显示点数:</label>
+                    <select class="search-select">
+                        <option>10</option>
+                        <option>50</option>
+                        <option>100</option>
+                        <option>200</option>
+                        <option>500</option>
+                        <option>1000</option>
+                        <option>2000</option>
+                        <option>3000</option>
+                        <option>4000</option>
+                        <option>5000</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+        <div class="search-content clear-float">
+            <div class="search-add">添加查询条件</div>
+            <div class="search-add">添加查询条件</div>
+            <div class="search-add">添加查询条件</div>
+        </div>
+        <div class="search-opt clear-float">查询操作</div>
+        <div class="search-shrink clear-float">收缩</div>
+    </div>
+    <div class="content clear-float">
+        <div class="content-chart">
+            <div class="chart-opt">操作</div>
+            <div class="chart-show" id="main"></div>
+        </div>
+    </div>
+    <div class="public-footer clear-float">
+        我是底部
+    </div>
+
+    <script>window.onload=init()</script>
+</div>
+</body>
+</html>

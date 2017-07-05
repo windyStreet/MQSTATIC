@@ -1,0 +1,49 @@
+.public-header {
+    position: relative;
+    height: 50px;
+    background: #f4a460;
+}
+
+.public-logo {
+    position: absolute;
+    float: left;
+    background: red;
+    width: 30px;
+    height: 30px;
+    margin: 10px -0.8% 10px 0.8%;
+}
+
+.header-logo {
+    color: #0F9E5E;
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/logo.jpg);
+    background-repeat: repeat-x;
+    background-position: top;
+    z-index: auto;
+}
+
+.public-title {
+    position: absolute;
+    float: left;
+    margin-left: 5%;
+}
+
+.public-title-content {
+    float: left;
+    text-align: center;
+    margin: 0px 10px;
+}
+
+.public-title-content a {
+    margin: 0 auto;
+    font-size: 20px;
+    color: #3418ff;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+
+.public-footer {
+    background: #f4a460;
+}

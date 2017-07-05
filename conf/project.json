@@ -1,0 +1,5 @@
+{
+  "context": "static",
+  "port": 6379,
+  "password": "longrise"
+}

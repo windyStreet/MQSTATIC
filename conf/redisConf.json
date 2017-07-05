@@ -1,0 +1,5 @@
+{
+  "host": "192.168.7.216",
+  "port": 6379,
+  "password": "longrise"
+}
