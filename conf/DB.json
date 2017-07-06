@@ -1,34 +1,18 @@
 {
-  "base": {
-    "type": "mongo",
-    "ip": "192.168.7.216",
-    "port": 27017,
-    "dbname": "BASE",
-    "user": "",
-    "password": ""
-  },
-  "OAMP": {
-    "type": "mongo",
-    "ip": "192.168.7.216",
-    "port": 27017,
-    "dbname": "OAMP",
-    "user": "",
-    "password": ""
-  },
-  "YXYBB": {
-    "type": "mongo",
-    "ip": "192.168.7.216",
-    "port": 27017,
-    "dbname": "YXYBB",
-    "user": "",
-    "password": ""
-  },
-  "BBT": {
-    "type": "mongo",
-    "ip": "192.168.7.216",
-    "port": 27017,
-    "dbname": "BBT",
-    "user": "",
-    "password": ""
-  }
+    "base": {
+        "password": "",
+        "user": "",
+        "ip": "192.168.7.216",
+        "port": 27017,
+        "type": "mongo",
+        "dbname": "OAMP_BASE"
+    },
+    "APPTEST": {
+        "password": "",
+        "user": "",
+        "type": "mongo",
+        "port": 27017,
+        "ip": "192.168.7.216",
+        "dbname": "OAMP_APPTEST"
+    }
 }

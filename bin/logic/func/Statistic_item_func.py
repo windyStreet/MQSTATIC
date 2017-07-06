@@ -44,21 +44,18 @@ class Statistic_item_func(object):
         if item is None:
             L.info("add item function , item is empty")
         else:
-            if self.is_exist_item(item=item):
-                L.info("add item function , item  is exist")
-            else:
-                # 加入数据库
-                base_mongo_instance = Mongo.getInstance(table=BO.BASE_statistic_item)
-                base_collection = base_mongo_instance.getCollection()
-                bo = Statistic_item_BO.getInstance()
-                bo.set_project_name(item["project_name"])
-                bo.set_statistic_type(item["statistic_type"])
-                bo.set_statistic_name(item["statistic_name"])
-                base_collection.insert(bo.json)
-                # 加入内存变量中
-                init.EXIST_ITEM_DATAS.append(item)
-                # 加入统计项中
-                Statistical_item_func.getInstance().add_statistical_item(item)
+            # 加入数据库
+            base_mongo_instance = Mongo.getInstance(table=BO.BASE_statistic_item)
+            base_collection = base_mongo_instance.getCollection()
+            bo = Statistic_item_BO.getInstance()
+            bo.set_project_name(item["project_name"])
+            bo.set_statistic_type(item["statistic_type"])
+            bo.set_statistic_name(item["statistic_name"])
+            base_collection.insert(bo.json)
+            # 加入内存变量中
+            init.EXIST_ITEM_DATAS.append(item)
+            # 加入统计项中
+            Statistical_item_func.getInstance().add_statistical_item(item)
 
     # 删除一个统计项 [此方法置后处理]
     def del_item(self,item):

@@ -9,6 +9,7 @@ from bin.logic import BO
 from bin import init
 from bin.until import Time
 from bin.logic.BO import Statistical_item_BO
+from bin.logic.func import Statistical_compute_func
 
 L = Logger.getInstance()
 
@@ -30,6 +31,7 @@ class Statistical_item_func(object):
         statistical_item_bo = Statistical_item_BO.getInstance()
         statistical_item_bo.set_project_name(item["project_name"])
         statistical_item_bo.set_statistical_type(item["statistic_type"])
+        statistical_item_bo.set_statistical_name(item["statistic_name"])
         statistical_item_bo.set_statistical_start_time(Time.getNowStr())
         datas = []
         for step in init.CONF_INFO["statical_rule"]["statical_step"]:
@@ -42,8 +44,7 @@ class Statistical_item_func(object):
 
     #启动统计计算项任务
     def start_compute(self):
-        t = threading.Thread(target=self.product_consume)
-        t.start()
+        Statistical_compute_func.getInstance().start_init()
         pass
 
 
