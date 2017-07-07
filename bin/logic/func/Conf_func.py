@@ -23,9 +23,10 @@ class Conf_func(object):
         for key in init.CONF_INFO["DB"].keys():
             value = init.CONF_INFO["DB"][key]['dbname']
             data = {}
+            data["db_name"] = value
             data["ds_code"] = key
-            data["project"] = value
-            L.info("init DB_ds , insert data: %s : %s", key, value)
+            data["project"] = key
+            L.info("init DB_ds , db_name is %s , ds_code is %s , project is %s ", value, key, key)
             datas.append(data)
         collection.insert_many(datas)
         mongo_instance.close()
@@ -53,7 +54,7 @@ class Conf_func(object):
             L.error("update conf file , the update file Path not be given ")
             L.critical("update conf file , the update file Path not be given ")
         else:
-            #重写文件
+            # 重写文件
             J.createFile(filePath=conf_file_path, data=data)
             # 更新完配置，重新加载配置文件对象
             self.init_conf()
@@ -68,16 +69,23 @@ class Conf_func(object):
 
     # 添加项目 添加数据库
     def add_project(self, project_name):
-        conf_path = P.confDirPath+os.sep+"DB.json"
+        conf_path = P.confDirPath + os.sep + "DB.json"
         data = J.readFile(conf_path)
         base_conf_json = data["base"]
         project_db_con_json = base_conf_json.copy()
-        project_db_con_json["dbname"] = "OAMP_"+str(project_name)
+        project_db_con_json["dbname"] = "OAMP_" + str(project_name)
         data[project_name] = project_db_con_json
-        self.update_conf(conf_file_path=conf_path,data=data)
+        self.update_conf(conf_file_path=conf_path, data=data)
         self.init_DB_ds()
-
         pass
+
+    # 获取数据源
+    def get_datasource(self, project_name):
+        if project_name is None:
+            return "base"
+        return project_name
+
+
 def getInstance():
     return Conf_func()
 

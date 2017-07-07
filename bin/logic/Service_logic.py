@@ -55,10 +55,7 @@ class Service_logic(object):
         print(_chart)
         _chart["tooltip"] = {}
         _PR.setResult(_chart)
-
         return _PR.getPRBytes()
-
-    collection = Mongo.getInstance("statistics").collection
 
     def line_test(self, data):
         _PR = PR.getInstance()

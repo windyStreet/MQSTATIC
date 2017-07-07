@@ -9,7 +9,6 @@ from bin.until import Path
 from bin.until import Logger
 from bin.until import Time
 from bin import init
-import time
 import json
 import threading
 
@@ -59,7 +58,6 @@ class MongoDB_log(object):
             insert_interval_time_stamp = Time.getNowTimeStamp()
             is_ack = True
             try:
-
                 for key in self.insert_infos.keys():
                     ds = key.split("=")[0]
                     table = key.split("=")[0]+"_"+key.split("=")[1]

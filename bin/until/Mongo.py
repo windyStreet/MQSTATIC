@@ -1,18 +1,15 @@
 #!/usr/bin/env python
 # !-*- coding:utf-8 -*-
-import os
 
 import pymongo
 
-from bin.until import JsonFileFunc
-from bin.until import Path
+from bin import init
 
-path = Path.getInstance().confDirPath + os.sep + "DB.json"
-_db_info = JsonFileFunc.getInstance().readFile(path)
 
 
 class Mongo(object):
     def __init__(self, table, db=None, ds=None, ip=None, port=None):
+        _db_info = init.CONF_INFO["DB"]
         self.db = None
         self.table = None
         if ds is None:

@@ -1,18 +1,18 @@
 {
-    "base": {
-        "password": "",
-        "user": "",
+    "YXYBB": {
         "ip": "192.168.7.216",
+        "user": "",
         "port": 27017,
-        "type": "mongo",
-        "dbname": "OAMP_BASE"
+        "dbname": "OAMP_YXYBB",
+        "password": "",
+        "type": "mongo"
     },
-    "APPTEST": {
-        "password": "",
-        "user": "",
-        "type": "mongo",
-        "port": 27017,
+    "base": {
         "ip": "192.168.7.216",
-        "dbname": "OAMP_APPTEST"
+        "user": "",
+        "port": 27017,
+        "dbname": "OAMP_BASE",
+        "password": "",
+        "type": "mongo"
     }
 }
