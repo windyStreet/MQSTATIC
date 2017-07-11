@@ -1,34 +1,20 @@
 {
-    "DB": {
-        "YXYBB": {
-            "port": 27017,
-            "dbname": "OAMP_YXYBB",
-            "password": "",
-            "user": "",
-            "type": "mongo",
-            "ip": "192.168.7.216"
-        },
-        "base": {
-            "port": 27017,
-            "dbname": "OAMP_BASE",
-            "password": "",
-            "user": "",
-            "type": "mongo",
-            "ip": "192.168.7.216"
-        }
-    },
     "statical_rule": {
         "except": [
             {
+                "statistic_type": "interface",
                 "project_name": "APPTEST",
-                "statistic_name": "login",
-                "statistic_type": "interface"
+                "statistic_name": "login"
             },
             {
+                "statistic_type": "interface",
                 "project_name": "APPTEST",
-                "statistic_name": "login",
-                "statistic_type": "interface"
+                "statistic_name": "login"
             }
+        ],
+        "statical_type": [
+            "interface",
+            "http"
         ],
         "statical_step": [
             1,
@@ -37,27 +23,41 @@
             60,
             360,
             720
-        ],
-        "statical_type": [
-            "interface",
-            "http"
         ]
-    },
-    "rabbitMQ": {
-        "port": "None",
-        "user": "longrise",
-        "password": "longrise",
-        "ip": "192.168.7.216"
     },
     "project": {
         "distributed_context": "OAMP"
     },
-    "server": {
-        "port": 8001
+    "rabbitMQ": {
+        "password": "longrise",
+        "user": "longrise",
+        "ip": "192.168.7.216",
+        "port": "None"
+    },
+    "DB": {
+        "YXYBB": {
+            "dbname": "OAMP_YXYBB",
+            "user": "",
+            "ip": "192.168.7.216",
+            "port": 27017,
+            "password": "",
+            "type": "mongo"
+        },
+        "base": {
+            "dbname": "OAMP_BASE",
+            "user": "",
+            "ip": "192.168.7.216",
+            "port": 27017,
+            "password": "",
+            "type": "mongo"
+        }
     },
     "redisConf": {
+        "password": "longrise",
         "host": "192.168.7.216",
-        "port": 6379,
-        "password": "longrise"
+        "port": 6379
+    },
+    "server": {
+        "port": 8002
     }
 }

@@ -11,12 +11,13 @@ from bin.service.Service import Service
 from bin.service.Html_service import *
 from tornado.options import define, options
 from bin.init import Init
+from bin import init
 
 P = bin.until.Path.getInstance()
-define("port", default=8001, help="run on the given port", type=int)
 
 if __name__ == "__main__":
     Init.Init().init()  # 系统初始化
+    define("port", default=init.CONF_INFO["server"]["port"], help="run on the given port", type=int)
 
     tornado.options.parse_command_line()
     app = tornado.web.Application(
