@@ -26,7 +26,6 @@ class Statistical_compute_func(object):
     def compute_data(self, pars, statistical_step, now_time_stamp):
         try:
             # 修改计算状态 防止重复计算
-            L.debug("Statistical_compute_func statistical_step is : %d ", statistical_step)
             for par in pars:
                 _id = par["_id"]
                 project_name = par['project_name']
@@ -81,14 +80,13 @@ class Statistical_compute_func(object):
                     # 更新计算状态，防止过长计算导致，计算结果重复
                     self.update_compute_date_statistical_state(_id=_id, last_time=last_time)
                 else:
-                    L.debug("statistical_deal ,not get the insert data")
+                    L.debug("statistical_deal , no result to inset into the res table")
 
             # 修改计算中间状态信息
             # COMPUTE_STATE_INFO = json.loads(RedisUntil.getInstance().get("COMPUTE_STATE_INFO").decode("utf-8"))
             init.COMPUTE_STATE_INFO[statistical_step]["is_able_run"] = True
             init.COMPUTE_STATE_INFO[statistical_step]["run_times"] = int(init.COMPUTE_STATE_INFO[statistical_step]["run_times"]) + 1
             init.COMPUTE_STATE_INFO[statistical_step]["last_run_time"] = now_time_stamp
-            print(init.COMPUTE_STATE_INFO)
         except Exception as e:
             L.error("compute data Expection:" + e)
             init.COMPUTE_STATE_INFO[statistical_step]["is_able_run"] = True

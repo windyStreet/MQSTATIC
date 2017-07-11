@@ -1,14 +1,35 @@
 {
-    "server": {
-        "port": 8001
-    },
-    "rabbitMQ": {
-        "ip": "192.168.7.216",
-        "port": "None",
-        "user": "longrise",
-        "password": "longrise"
+    "DB": {
+        "YXYBB": {
+            "port": 27017,
+            "dbname": "OAMP_YXYBB",
+            "password": "",
+            "user": "",
+            "type": "mongo",
+            "ip": "192.168.7.216"
+        },
+        "base": {
+            "port": 27017,
+            "dbname": "OAMP_BASE",
+            "password": "",
+            "user": "",
+            "type": "mongo",
+            "ip": "192.168.7.216"
+        }
     },
     "statical_rule": {
+        "except": [
+            {
+                "project_name": "APPTEST",
+                "statistic_name": "login",
+                "statistic_type": "interface"
+            },
+            {
+                "project_name": "APPTEST",
+                "statistic_name": "login",
+                "statistic_type": "interface"
+            }
+        ],
         "statical_step": [
             1,
             5,
@@ -17,43 +38,22 @@
             360,
             720
         ],
-        "except": [
-            {
-                "statistic_name": "login",
-                "statistic_type": "interface",
-                "project_name": "APPTEST"
-            },
-            {
-                "statistic_name": "login",
-                "statistic_type": "interface",
-                "project_name": "APPTEST"
-            }
-        ],
         "statical_type": [
             "interface",
             "http"
         ]
     },
+    "rabbitMQ": {
+        "port": "None",
+        "user": "longrise",
+        "password": "longrise",
+        "ip": "192.168.7.216"
+    },
     "project": {
         "distributed_context": "OAMP"
     },
-    "DB": {
-        "YXYBB": {
-            "type": "mongo",
-            "password": "",
-            "ip": "192.168.7.216",
-            "port": 27017,
-            "user": "",
-            "dbname": "OAMP_YXYBB"
-        },
-        "base": {
-            "type": "mongo",
-            "password": "",
-            "ip": "192.168.7.216",
-            "port": 27017,
-            "user": "",
-            "dbname": "OAMP_BASE"
-        }
+    "server": {
+        "port": 8001
     },
     "redisConf": {
         "host": "192.168.7.216",
