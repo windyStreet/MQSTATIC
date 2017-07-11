@@ -1,19 +1,16 @@
 #!/usr/bin/env python
 # !-*- coding:utf-8 -*-
 import sys
-import tornado
-
-import bin.until.Path
-
 sys.path.append(sys.path[0].replace("/bin", ""))  # 初始化项目路径
 
 from bin.service.Service import Service
 from bin.service.Html_service import *
 from tornado.options import define, options
 from bin.init import Init
+from bin.until import Path
 from bin import init
 
-P = bin.until.Path.getInstance()
+P = Path.getInstance()
 
 if __name__ == "__main__":
     Init.Init().init()  # 系统初始化
