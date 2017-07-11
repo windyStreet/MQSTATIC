@@ -1,21 +1,24 @@
 #!/usr/bin/env python
 # !-*- coding:utf-8 -*-
 import sys
+import tornado
 
-sys.path.append(sys.path[0].replace("/bin", ""))
+import bin.until.Path
 
-from bin.service.Service import *
+sys.path.append(sys.path[0].replace("/bin", ""))  # 初始化项目路径
+
+from bin.service.Service import Service
 from bin.service.Html_service import *
 from tornado.options import define, options
 from bin.init import Init
 
-P = Path.getInstance()
+P = bin.until.Path.getInstance()
 define("port", default=8001, help="run on the given port", type=int)
 
 if __name__ == "__main__":
     Init.Init().init()  # 系统初始化
+
     tornado.options.parse_command_line()
-    print(P.htmlPath)
     app = tornado.web.Application(
 
         handlers=[(r"/service", Service),
