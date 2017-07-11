@@ -28,8 +28,7 @@ class Statistical_compute_func(object):
             # 修改计算状态 防止重复计算
             L.debug("Statistical_compute_func statistical_step is : %d ", statistical_step)
             for par in pars:
-                print(par)
-                id = par["_id"]
+                _id = par["_id"]
                 project_name = par['project_name']
                 statistical_type = par['statistical_type']
                 statistical_name = par['statistical_name']
@@ -64,7 +63,7 @@ class Statistical_compute_func(object):
                     if statistical_name is not None:
                         document_bo.set_statistical_name(statistical_name)
                     documents.append(document_bo.json())
-                    L.debug("filter info is %s , the result count is %d , len documents is %d", _filter, count, len(documents))
+                    # L.debug("filter info is %s , the result count is %d , len documents is %d", _filter, count, len(documents))
                     if len(documents) > init.MAX_INSERT_COUNT:
                         res_mongo_instance = Mongo.getInstance(table=BO.BASE_statistic_res)
                         res_collection = res_mongo_instance.getCollection()
@@ -72,7 +71,7 @@ class Statistical_compute_func(object):
                         documents = []
                         res_mongo_instance.close()
                         # 更新计算状态，防止过长计算导致，计算结果重复
-                        self.update_compute_date_statistical_state(id=id, last_time=last_time)
+                        self.update_compute_date_statistical_state(_id=_id, last_time=last_time)
 
                 if len(documents) > 0:
                     res_mongo_instance = Mongo.getInstance(table=BO.BASE_statistic_res)
@@ -80,7 +79,7 @@ class Statistical_compute_func(object):
                     res_collection.insert_many(documents=documents)  # 将结果插入到结果表中
                     res_mongo_instance.close()
                     # 更新计算状态，防止过长计算导致，计算结果重复
-                    self.update_compute_date_statistical_state(id=id, last_time=last_time)
+                    self.update_compute_date_statistical_state(_id=_id, last_time=last_time)
                 else:
                     L.debug("statistical_deal ,not get the insert data")
 
@@ -95,7 +94,7 @@ class Statistical_compute_func(object):
             init.COMPUTE_STATE_INFO[statistical_step]["is_able_run"] = True
             init.COMPUTE_STATE_INFO[statistical_step]["last_run_time"] = now_time_stamp
 
-    def update_compute_date_statistical_state(self, id, last_time):
+    def update_compute_date_statistical_state(self, _id, last_time):
         # 去更新statistical_item表
         if last_time is not None:
             _item_bo_1 = Statistical_item_BO.getInstance()
@@ -103,7 +102,7 @@ class Statistical_compute_func(object):
 
             _item_mongo_instnce = Mongo.getInstance(table=BO.BASE_statistical_item)
             _item_collection = _item_mongo_instnce.getCollection()
-            _item_filter = Filter.getInstance().filter("_id", id, DBCODE.EQ)
+            _item_filter = Filter.getInstance().filter("_id", _id, DBCODE.EQ)
             _item_collection.update_one(_item_filter.filter_json(), _item_bo_1.update_json)
             # 关闭数据库连接
             _item_mongo_instnce.close()
@@ -121,8 +120,7 @@ class Statistical_compute_func(object):
             init.COMPUTE_STATE_INFO[statical_step]["now_time_stamp"] = Time.getNowTimeStamp()
             init.COMPUTE_STATE_INFO[statical_step]["last_run_time"] = Time.getNowTimeStamp()
             init.COMPUTE_STATE_INFO[statical_step]["threshold"] = int(statical_step) * 60 - 5
-        # RedisUntil.getInstance().set("init.COMPUTE_STATE_INFO", json.dumps(init.COMPUTE_STATE_INFO))
-        L.debug("init_compute_state_info  compute_state_info info is : %s ", json.dumps(init.COMPUTE_STATE_INFO))
+        L.debug("init_compute_state_info  compute_state_info info is : %s ", init.COMPUTE_STATE_INFO)
 
     # 通过步长进行任务分配
     def start_compute_by_step(self):
@@ -139,7 +137,6 @@ class Statistical_compute_func(object):
             time.sleep(init.INSERT_INETRVAL_TIME)
         # 可以开始启动计算
         while True:
-            # COMPUTE_STATE_INFO = json.loads(RedisUntil.getInstance().get("COMPUTE_STATE_INFO").decode("utf-8"))
             L.debug("init.COMPUTE_STATE_INFO is %s", init.COMPUTE_STATE_INFO)
             for statical_step in init.CONF_INFO["statical_rule"]["statical_step"]:
                 now_time_stamp = Time.getNowTimeStamp()
@@ -153,7 +150,6 @@ class Statistical_compute_func(object):
                     task_collection = task_mongo_instance.getCollection()
                     _filter = Filter.getInstance().filter(key="statistical_step", value=int(statical_step), relation=DBCODE.EQ).filter_json()
                     statistical_datas = task_collection.find(_filter)
-                    L.debug("search statical items info ,the filter is: %s ", _filter)
                     task_mongo_instance.close()
                     # 修改了统计计算的状态值
                     init.COMPUTE_STATE_INFO[statical_step]["is_init"] = False
@@ -163,12 +159,9 @@ class Statistical_compute_func(object):
                     t.start()
                 init.COMPUTE_STATE_INFO[statical_step]["interval"] = interval
                 init.COMPUTE_STATE_INFO[statical_step]["now_time_stamp"] = now_time_stamp
-                # 出现二次写会问题
-                # RedisUntil.getInstance().set("COMPUTE_STATE_INFO", json.dumps(COMPUTE_STATE_INFO))
 
             L.debug("compute_by_step sleeping %d second ", init.COMPUTE_DATA_INERVAL_TIME)
-            # time.sleep(init.COMPUTE_DATA_INERVAL_TIME)
-            time.sleep(30)
+            time.sleep(init.COMPUTE_DATA_INERVAL_TIME)
         pass
 
     # 计算全部定时任务内容代码开始启动 (启动一个线程来进行处理)
