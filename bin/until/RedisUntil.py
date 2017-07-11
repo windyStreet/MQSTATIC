@@ -2,19 +2,23 @@
 # !-*- coding:utf-8 -*-
 import json
 import redis
-from bin.until import JsonFileFunc
-from bin.until import Path
+from bin import init
+from bin.until import Logger
+import sys
+L = Logger.getInstance()
 
 
 class RedisUntil(object):
     def __init__(self, db=None):
         # 初始化redis
-        path = Path.getInstance().confDirPath + "redisConf.json"
-        redisConfObject = JsonFileFunc.getInstance().readFile(path)
-        self.password = redisConfObject["password"]
+        redis_conf_object = init.CONF_INFO.get("redisConf")
+        if redis_conf_object is 0:
+            L.error("init redis , not redisConf info'")
+            sys.exc_info(1)
+        self.password = redis_conf_object["password"]
         # self.socket_timeout = redisConfObject['socket_timeout']
-        self.port = redisConfObject['port']
-        self.host = redisConfObject['host']
+        self.port = redis_conf_object['port']
+        self.host = redis_conf_object['host']
         if db is not None:
             self.db = db
         else:

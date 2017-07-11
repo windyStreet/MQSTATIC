@@ -17,7 +17,6 @@ class JsonFileFunc(object):
         jsonData = None
         try:
             with open(filePath, 'r', encoding='utf-8') as tmpFile:
-                print(tmpFile)
                 jsonData = json.load(tmpFile)
         except Exception as e:
             L.error("read [ " + str(filePath) + " ] not exists")

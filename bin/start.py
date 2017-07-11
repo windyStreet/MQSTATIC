@@ -17,6 +17,7 @@ if __name__ == "__main__":
     tornado.options.parse_command_line()
     print(P.htmlPath)
     app = tornado.web.Application(
+
         handlers=[(r"/service", Service),
                   (r"/index.html", index),
                   (r"/main.html", main),
