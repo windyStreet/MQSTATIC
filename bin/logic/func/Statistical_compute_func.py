@@ -86,8 +86,6 @@ class Statistical_compute_func(object):
 
             # 修改计算中间状态信息
             # COMPUTE_STATE_INFO = json.loads(RedisUntil.getInstance().get("COMPUTE_STATE_INFO").decode("utf-8"))
-            print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
-            print(statistical_step)
             init.COMPUTE_STATE_INFO[statistical_step]["is_able_run"] = True
             init.COMPUTE_STATE_INFO[statistical_step]["run_times"] = int(init.COMPUTE_STATE_INFO[statistical_step]["run_times"]) + 1
             init.COMPUTE_STATE_INFO[statistical_step]["last_run_time"] = now_time_stamp
