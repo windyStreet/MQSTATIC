@@ -73,7 +73,7 @@ class Conf_func(object):
         data = J.readFile(conf_path)
         base_conf_json = data["base"]
         project_db_con_json = base_conf_json.copy()
-        project_db_con_json["dbname"] = init.CONF_INFO["project"]["distributed_context"]+"_" + str(project_name)
+        project_db_con_json["dbname"] = init.CONF_INFO["project"]["distributed_context"] + "_" + str(project_name)
         data[project_name] = project_db_con_json
         self.update_conf(conf_file_path=conf_path, data=data)
         self.init_DB_ds()
