@@ -6,7 +6,7 @@ from bin.until import DBCODE
 
 '''
 statistical_item={
-          "id":"主键",
+          "_id":"主键",
           "project_name":"项目名称",
           "createtime":"数据创建时间",
           "updatetime":"数据更新时间",
@@ -21,7 +21,7 @@ statistical_item={
 
 class Statistical_item_BO(object):
     def __init__(self):
-        self.id = None
+        self._id = None
         self.create_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
         self.update_time = None
         self.project_name = None
@@ -34,8 +34,8 @@ class Statistical_item_BO(object):
     def json(self):
         """JSON format data."""
         json = {}
-        if self.id is not None:
-            json['id'] = self.id
+        if self._id is not None:
+            json['_id'] = self._id
         if self.create_time is not None:
             json['create_time'] = self.create_time
         if self.update_time is not None:
@@ -58,12 +58,12 @@ class Statistical_item_BO(object):
         update_json = {DBCODE.RELATION_UPDATE: self.json}
         return update_json
 
-    def set_id(self, id):
-        self.id = id
+    def set_id(self, _id):
+        self._id = _id
         return self
 
     def get_id(self):
-        return self.id
+        return self._id
 
     def set_create_time(self, create_time=None):
         if create_time is not None:

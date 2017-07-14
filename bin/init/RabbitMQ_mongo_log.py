@@ -55,7 +55,7 @@ class RabbitMQ_mongo_log(object):
         channel = self.connection.channel()
         # 声明消息队列，消息将在这个队列中进行传递。如果队列不存在，则创建
         channel.queue_declare(queue=queue, durable=True, passive="MONGO_FLAG")
-        channel.basic_qos(prefetch_count=init.MAX_PER_RECIVE_COUNT)
+        channel.basic_qos(prefetch_count=init.MAX_PER_RECEIVE_COUNT)
 
         # 告诉rabbitmq使用callback来接收信息
         channel.basic_consume(callback,

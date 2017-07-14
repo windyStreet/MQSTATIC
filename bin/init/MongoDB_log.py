@@ -54,7 +54,7 @@ class MongoDB_log(object):
         global insert_interval_time_stamp
         now_time_stamp = Time.getNowTimeStamp()
         interval_time = now_time_stamp - insert_interval_time_stamp
-        if len(self.delivery_tags) >= init.MAX_INSERT_COUNT or interval_time > init.INSERT_INETRVAL_TIME:
+        if len(self.delivery_tags) >= init.MAX_INSERT_COUNT or interval_time > init.INSERT_INTERVAL_TIME:
             insert_interval_time_stamp = Time.getNowTimeStamp()
             is_ack = True
             try:

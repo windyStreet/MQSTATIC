@@ -132,7 +132,7 @@ class Statistical_compute_func(object):
                 L.info("the  MQ message count is %d , waiting ....", msg_count)
             except Exception as e:
                 L.warning(e)
-            time.sleep(init.INSERT_INETRVAL_TIME)
+            time.sleep(init.INSERT_INTERVAL_TIME)
         # 可以开始启动计算
         while True:
             L.debug("init.COMPUTE_STATE_INFO is %s", init.COMPUTE_STATE_INFO)
@@ -158,8 +158,8 @@ class Statistical_compute_func(object):
                 init.COMPUTE_STATE_INFO[statical_step]["interval"] = interval
                 init.COMPUTE_STATE_INFO[statical_step]["now_time_stamp"] = now_time_stamp
 
-            L.debug("compute_by_step sleeping %d second ", init.COMPUTE_DATA_INERVAL_TIME)
-            time.sleep(init.COMPUTE_DATA_INERVAL_TIME)
+            L.debug("compute_by_step sleeping %d second ", init.COMPUTE_DATA_INTERVAL_TIME)
+            time.sleep(init.COMPUTE_DATA_INTERVAL_TIME)
         pass
 
     # 计算全部定时任务内容代码开始启动 (启动一个线程来进行处理)
