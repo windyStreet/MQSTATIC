@@ -61,7 +61,7 @@ class Statistical_compute_func(object):
                     document_bo.set_statistical_type(statistical_type)
                     if statistical_name is not None:
                         document_bo.set_statistical_name(statistical_name)
-                    documents.append(document_bo.json())
+                    documents.append(document_bo.json)
                     # L.debug("filter info is %s , the result count is %d , len documents is %d", _filter, count, len(documents))
                     if len(documents) > init.MAX_INSERT_COUNT:
                         res_mongo_instance = Mongo.getInstance(table=BO.BASE_statistic_res)

@@ -1,4 +1,30 @@
 {
+    "DB": {
+        "BBT": {
+            "password": "",
+            "ip": "192.168.7.216",
+            "port": 27017,
+            "type": "mongo",
+            "dbname": "OAMP_BBT",
+            "user": ""
+        },
+        "base": {
+            "password": "",
+            "ip": "192.168.7.216",
+            "port": 27017,
+            "type": "mongo",
+            "dbname": "OAMP_BASE",
+            "user": ""
+        },
+        "YXYBB": {
+            "password": "",
+            "ip": "192.168.7.216",
+            "port": 27017,
+            "type": "mongo",
+            "dbname": "OAMP_YXYBB",
+            "user": ""
+        }
+    },
     "statical_rule": {
         "statical_step": [
             1,
@@ -10,14 +36,14 @@
         ],
         "except": [
             {
-                "statistic_name": "login",
+                "project_name": "APPTEST",
                 "statistic_type": "interface",
-                "project_name": "APPTEST"
+                "statistic_name": "login"
             },
             {
-                "statistic_name": "login",
+                "project_name": "APPTEST",
                 "statistic_type": "interface",
-                "project_name": "APPTEST"
+                "statistic_name": "login"
             }
         ],
         "statical_type": [
@@ -25,47 +51,21 @@
             "http"
         ]
     },
+    "rabbitMQ": {
+        "password": "longrise",
+        "ip": "192.168.7.216",
+        "port": "None",
+        "user": "longrise"
+    },
     "server": {
         "port": 8002
     },
-    "redisConf": {
-        "host": "192.168.7.216",
-        "password": "longrise",
-        "port": 6379
-    },
-    "DB": {
-        "YXYBB": {
-            "password": "",
-            "type": "mongo",
-            "dbname": "OAMP_YXYBB",
-            "user": "",
-            "port": 27017,
-            "ip": "192.168.7.216"
-        },
-        "BBT": {
-            "password": "",
-            "type": "mongo",
-            "dbname": "OAMP_BBT",
-            "user": "",
-            "port": 27017,
-            "ip": "192.168.7.216"
-        },
-        "base": {
-            "password": "",
-            "type": "mongo",
-            "dbname": "OAMP_BASE",
-            "user": "",
-            "port": 27017,
-            "ip": "192.168.7.216"
-        }
-    },
-    "rabbitMQ": {
-        "password": "longrise",
-        "user": "longrise",
-        "port": "None",
-        "ip": "192.168.7.216"
-    },
     "project": {
         "distributed_context": "OAMP"
+    },
+    "redisConf": {
+        "password": "longrise",
+        "port": 6379,
+        "host": "192.168.7.216"
     }
 }
