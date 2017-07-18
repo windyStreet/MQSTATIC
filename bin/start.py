@@ -3,6 +3,7 @@
 import sys
 sys.path.append(sys.path[0].replace("/bin", ""))  # 初始化项目路径
 
+
 from bin.service.Service import Service
 from bin.service.Html_service import *
 from tornado.options import define, options
