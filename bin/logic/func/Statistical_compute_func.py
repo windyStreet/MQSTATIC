@@ -88,7 +88,7 @@ class Statistical_compute_func(object):
             init.COMPUTE_STATE_INFO[statistical_step]["run_times"] = int(init.COMPUTE_STATE_INFO[statistical_step]["run_times"]) + 1
             init.COMPUTE_STATE_INFO[statistical_step]["last_run_time"] = now_time_stamp
         except Exception as e:
-            L.error("compute data Expection:" + e)
+            L.error("compute data Expection:" + str(e))
             init.COMPUTE_STATE_INFO[statistical_step]["is_able_run"] = True
             init.COMPUTE_STATE_INFO[statistical_step]["last_run_time"] = now_time_stamp
 
